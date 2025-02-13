@@ -35,12 +35,6 @@
     font-family: sans-serif;
 }
 
-.Sexton {
-    font-size: 15px;
-    color: grey;
-    font-family: sans-serif;
-}
-
 .DOGBERRY {
     font-size: 15px;
     color: rgb(45, 44, 44);
@@ -57,5 +51,37 @@
     font-size: 15px;
     color: rgb(81, 21, 21);
     font-family: sans-serif;
+}
+
+.CONRADE {
+    font-size: 15px;
+    color: rgb(184, 215, 59);
+    font-family: sans-serif;
+}
+
+table { 
+    border: solid, 3px;
+    margin-bottom: 20px;
+    display: grid;
+    max-width: fit-content;
+    padding: 2px;
+}
+
+
+td, tr {
+    text-align: center;
+    color: black;
+    font: 20px;
+    border: solid, 2px;
+    padding: 1px;
+}
+
+.color {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.head {
+    font-weight: bold;
 }
 

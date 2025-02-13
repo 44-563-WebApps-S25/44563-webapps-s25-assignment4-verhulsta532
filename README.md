@@ -2,4 +2,4 @@
 # WebApps-S25-Assignment-4
 A practice assignment for HTML with CSS
 
-[Hosted by](C:\Users\s548114\OneDrive - nwmissouri.edu\Documents\webapps-repos\44563-webapps-s25-assignment4-verhulsta532\play.html)
+[Hosted by](play.html)
